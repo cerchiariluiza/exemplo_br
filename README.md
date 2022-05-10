@@ -2,6 +2,7 @@
 
 mudar as roles e s3endereços dos arquivos terraform
 <br> fazer do 5 ao 10 em jobs
+<br> fazer do 5 ao 10 em s3 objects
 
 <br>nao fazer nada com os de python
 
